@@ -171,3 +171,4 @@ yeahmobi.com, 5135195, RESELLER
 zetaglobal.net, 815, RESELLER
 zmaticoo.com, 5135195, RESELLER
 zmaticoo.com, 5135704, RESELLER
+google.com, pub-7724368237744318, DIRECT, f08c47fec0942fa0
